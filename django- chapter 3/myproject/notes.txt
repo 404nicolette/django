@@ -1,0 +1,7 @@
+model.py--- it is similar to the 
+combination of JPA (Java Persistence API) entities and repositories 
+in spring boot.
+
+way to define, manipulate, and interact with your database 
+using Python code, abstracting away much of the complexity of direct database 
+interactions.
